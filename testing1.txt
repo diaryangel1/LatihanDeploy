@@ -7,3 +7,6 @@ TESTING KE 2 DARI LAPTOP RUMAH
 
 
 testing ke 3 memastikan laptop rumah connect
+
+
+testing ke 4 pake git pull
